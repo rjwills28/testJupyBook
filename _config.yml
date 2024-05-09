@@ -31,4 +31,3 @@ html:
 
 launch_buttons:
   binderhub_url: "https://mybinder.org/v2/gh/rjwills28/testJupyBook.git/main"  # The URL for your BinderHub (e.g., https://mybinder.org)
-https://mybinder.org/v2/gh/rjwills28/testJupyBook.git/main
